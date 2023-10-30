@@ -1,7 +1,16 @@
 aaa
 aaaaaa
 aaaa
+<<<<<<< HEAD
 doremi
 jjee
 doremi
 jjee
+=======
+<<<<<<< HEAD
+vxvcvv
+=======
+abc
+390123
+>>>>>>> origin/master
+>>>>>>> origin/master

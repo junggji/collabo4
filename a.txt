@@ -6,11 +6,11 @@ doremi
 jjee
 doremi
 jjee
-=======
 <<<<<<< HEAD
 vxvcvv
-=======
 abc
 390123
 >>>>>>> origin/master
->>>>>>> origin/master
+<<<<<<< HEAD
+일이삼사오
+hi
